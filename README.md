@@ -40,3 +40,6 @@ Run the six built-in example questions:
 
 The demo covers multiple phrasings of balances, meeting schedules, and fees.
 The program reports API, timeout, and connection errors in the terminal.
+
+## Auther
+Branham Simiyu
